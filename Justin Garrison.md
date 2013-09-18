@@ -1,5 +1,5 @@
 ---
-name: Haha Ha
+name: Justin Garrison
 header:
   - text: <span class="iconify" data-icon="tabler:phone"></span> (+1) 123-456-7890
   - text: <span class="iconify" data-icon="tabler:mail"></span> renovamenzxh@gmail.com
