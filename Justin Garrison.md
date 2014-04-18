@@ -19,7 +19,7 @@ header:
 **University of Charles River**
   ~ Boston, MA
 
-M.S. in Computer Science
+M.S. in Math/Physics
   ~ 09/2021 - 01/2023
 
 **Huangdu Institute of Technology**
