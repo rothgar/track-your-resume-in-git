@@ -28,22 +28,6 @@ M.S. in Math/Physics
 B.Eng. in Software Engineering
   ~ 09/2016 - 07/2020
 
-
-## Publications
-
-[~P1]: **Eating is All You Need**
-
-    <u>Haha Ha</u>, San Zhang
-
-    *Conference on Neural Information Processing Systems (NeurIPS), 2099*
-
-[~P2]: **You Only Cook Once: Unified, Real-Time Mapo Tofu Recipe**
-
-    <u>Haha Ha</u>, San Zhang, Si Li, Wu Wang
-
-    *Computer Vision and Pattern Recognition Conference (CVPR), 2077 **(Best Paper Honorable Mention)***
-
-
 ## Experience
 
 **Machine Learning Engineer Intern**
