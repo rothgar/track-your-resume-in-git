@@ -14,6 +14,8 @@ header:
     newLine: true
 ---
 
+# I'm a good manager
+
 ## Education
 
 **University of Charles River**
