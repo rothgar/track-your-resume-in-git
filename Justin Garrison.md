@@ -19,7 +19,7 @@ header:
 **University of Charles River**
   ~ Boston, MA
 
-M.S. in Math/Physics
+M.S. in Computer Science
   ~ 09/2021 - 01/2023
 
 **Huangdu Institute of Technology**
@@ -46,9 +46,7 @@ B.Eng. in Software Engineering
 
 ## Experience
 
-# Lots of systems stuff
-
-**Machine Learning Engineer Intern**
+**I do stuff
   ~ Slow Feet Technology
   ~ 07/2021 - Present
 
