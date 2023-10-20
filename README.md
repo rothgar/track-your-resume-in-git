@@ -24,6 +24,10 @@ This may not be the best system for you depending on how much you use or like gi
 You can explore this repo by cloning it and using `git` or visually from the network insights on GitHub.
 Other git tools may work, but may not present the data in a helpful way because this repo is not used like a typical code repo.
 
+This is a visualization with [GitVine](https://insanesharpness.gitlab.io/GitVine/)
+![image](https://github.com/rothgar/track-your-resume-in-git/assets/371796/474d6bef-5d05-4fec-bdc9-235aad660a7b)
+
+
 ## How to track your resume in git
 
 Put your resume in git.
