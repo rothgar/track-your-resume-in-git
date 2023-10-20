@@ -1,5 +1,9 @@
 # Track your resume in git
 
+Watch the video for a complete guide 👇
+
+[![git resume workflow](https://img.youtube.com/vi/W5pwShuW1yw/0.jpg)](https://www.youtube.com/watch?v=W5pwShuW1yw)
+
 I have been using git to track my resume and job applications for over 10 years, and I constantly make improvements to this workflow.
 Here is an example repo for how to track your resume with git.
 
